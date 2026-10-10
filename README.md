@@ -38,9 +38,9 @@ The Iris dataset contains 150 rows and 5 columns, with three species: setosa, ve
 
 There are no missing values in the dataset. The average sepal length is approximately 5.84, the maximum petal length is 6.9, and the minimum sepal width is 2.0.
 
-The analysis also shows clear differences between the three species. Virginica has the highest average petal width, while setosa has the lowest.
+The analysis shows clear differences between the three Iris species. Setosa has the highest average sepal width, while virginica generally has larger petal measurements.
 
-The visualizations show that sepal length and petal length have a positive relationship, and most sepal length values are concentrated between approximately 5 and 6.5.
+The additional visualizations also help compare the species based on sepal width, petal width, petal length, and other flower measurements.and 6.5.
 
 ## Project Structure
 
